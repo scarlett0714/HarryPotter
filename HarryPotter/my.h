@@ -6,6 +6,8 @@
 #include <windows.h>
 #include <conio.h>
 
+#define _CRT_SECURE_NO_WARNINGS
+
 #define HP1 130
 #define HP2 100 
 #define ATK1 7 
